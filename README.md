@@ -1,2 +1,2 @@
 # tonibaxter.com
-MySpace inspired portfolio site
+Portfolio site
